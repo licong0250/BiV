@@ -1,0 +1,7 @@
+without-passworettings.py
+.idea/
+settings.py*
+*.bak
+*/migrations/
+*.swo
+
